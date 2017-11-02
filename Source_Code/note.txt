@@ -1,0 +1,6 @@
+Before update source code need to do following steps:
+	1. git stash save
+	2. git pull origin
+	3. git stash pop
+	4. git commit
+	5. git push
